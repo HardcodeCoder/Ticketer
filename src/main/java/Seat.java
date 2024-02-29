@@ -1,0 +1,1 @@
+public record Seat(char section, int number) {}
