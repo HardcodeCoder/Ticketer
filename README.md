@@ -2,6 +2,24 @@
 
 A Sample ticketing Backend API using Java and only Java.
 
+### Requirements
+
+- JDK 21
+- Gradle build system (tested with `8.6`, but any older version should work too)
+
+### Dependency
+
+- Gson
+- Jetbrains annotations
+- Junit
+
+### Usage:
+
+- Run `Ticketer`
+- Hit the endpoints using `curl`, [Postman](https://www.postman.com/)
+  or [Thunder Client](https://www.thunderclient.com/)
+- Try it out
+
 ### API Endpoints
 
 `POST /api/purchase`
